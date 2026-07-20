@@ -1,5 +1,5 @@
 {
-  "version": "1.0.3",
-  "downloadUrl": "https://github.com/lodex23/antiphish-releases/releases/download/V1.0.3/AntiPhish-Setup-v1.0.3.exe",
-  "releaseNotes": "Portaal-link gecorrigeerd, versienummer klopt nu met werkelijke versie"
+  "version": "1.0.4",
+  "downloadUrl": "https://github.com/lodex23/antiphish-releases/releases/download/V1.0.4/AntiPhish-Setup-v1.0.4.exe",
+  "releaseNotes": "Automatische updates verbeterd"
 }
