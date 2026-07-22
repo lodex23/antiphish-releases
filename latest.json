@@ -1,5 +1,5 @@
 {
-  "version": "1.0.6",
-  "downloadUrl": "https://github.com/lodex23/antiphish-releases/releases/download/V1.0.6/AntiPhish-Setup-v1.0.6.exe",
+  "version": "1.0.7",
+  "downloadUrl": "https://github.com/lodex23/antiphish-releases/releases/download/V1.0.7/AntiPhish-Setup-v1.0.7.exe",
   "releaseNotes": "AntiPhish v1.0.6\n\nWat is er nieuw\n- Gmail OAuth login — Accounts toevoegen gaat nu via een gewone Google-aanmelding in de browser. Geen IMAP-configuratie, app-wachtwoorden of technische instellingen meer nodig.\n- Seat-overzicht over alle machines — Het Accounts-tabblad toont nu alle geregistreerde accounts vanuit de cloud, ook accounts die op een andere computer zijn toegevoegd.\n- Account verwijderen vanaf elke machine — Een account verwijderen werkt nu altijd, ongeacht op welke computer het werd toegevoegd.\n- Automatische token-vernieuwing — OAuth-tokens worden op de achtergrond vernieuwd. Geen herinstallatie of herverbinding nodig bij verlopen sessies.\n\nBugfixes\n\n\n- Seat-teller toont nu het correcte aantal gebruikte en beschikbare seats.\n- 'Beheer in portaal'-knop opent nu de juiste portaalpagina."
 }
